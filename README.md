@@ -1,2 +1,2 @@
-# C.A.B.A-clash-at-the-battle-Aarena-
+# C.A.B.A-clash-at-the-battle-Arena-
 Multiplayer spinning top Augmented Reality game
